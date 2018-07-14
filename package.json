@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/karthik137/bootstrap/issues"
   },
-  "homepage": "https://github.com/karthik137/bootstrap#readme"
+  "homepage": "https://github.com/karthik137/bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
